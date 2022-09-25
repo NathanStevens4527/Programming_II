@@ -1,3 +1,6 @@
+"""
+program that adds function to previously made scores code
+"""
 def main():
     score = float(input("Enter score: "))
     result = determine_result(score)

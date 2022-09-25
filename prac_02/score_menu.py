@@ -1,3 +1,6 @@
+"""
+Program using menu loop and functions for menu options
+"""
 MENU = "(P)rint stars\n(G)et result\n(Q)uit"
 
 def main():

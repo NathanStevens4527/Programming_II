@@ -1,3 +1,4 @@
+"""Program for converting temperatures with functions"""
 def convert_to_fahrenheit(celsius):
 
     fahrenheit = celsius * 9.0 / 5 + 32

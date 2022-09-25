@@ -1,3 +1,8 @@
+"""
+Program that gets the desired length of a password of a user
+The password is error checked to make sure it is the right length
+The length of the password is then used to print the same number of stars.
+"""
 def main():
     minimum_password_length = int(input("Enter minimum password length: "))
     password_length = get_password(minimum_password_length)
