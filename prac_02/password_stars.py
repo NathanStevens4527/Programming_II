@@ -9,7 +9,8 @@ def main():
     method_name(password_length)
 
 
-def print_asterisks(password_length):
+def print_asterisks\
+                (password_length):
     for i in range(0, password_length):
         print("*", sep="", end="")
 
